@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/itxaka/e2label/superblock"
+	"github.com/itxaka/go-e2label/superblock"
 )
 
 func main() {
