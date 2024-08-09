@@ -1,4 +1,4 @@
-module github.com/itxaka/e2label
+module github.com/itxaka/go-e2label
 
 go 1.22.5
 
